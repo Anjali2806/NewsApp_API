@@ -17,6 +17,6 @@ With a user-friendly interface and real-time updates, our website is a one-stop 
 * NewsAPI.org
   
 # How to run this project
-* Clone the project using command - git clone https://github.com/Anjali2806/Personal_Portfolio.git
+* Clone the project using command - git clone git@github.com:Anjali2806/NewsApp_API.git
 * Open the project in your prefered code editor.
 * Run the index.html file in your prefered web browser.
